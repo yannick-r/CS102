@@ -13,8 +13,7 @@ CS102
 *first
 +second
 
-| Tables        | Are           | Cool  |
+| Tables        |           aa  | b     |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| 1             | 2             | 3     |
+| _kursiv_      | __fett__      |**_beides_** |
